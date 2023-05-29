@@ -199,6 +199,12 @@ span {
   .block-cart h2 {
    margin: 10px 0;
   }
+  .btn {
+    padding: 0.5rem 2.3rem;
+  }
+  span {
+    padding-bottom: 5px;
+  }
 
 
 }
