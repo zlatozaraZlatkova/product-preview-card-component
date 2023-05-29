@@ -197,7 +197,7 @@ span {
 @media (max-width: 320px) {
 
   .block-cart h2 {
-    margin: 10px;
+   margin: 10px 0;
   }
 
 
