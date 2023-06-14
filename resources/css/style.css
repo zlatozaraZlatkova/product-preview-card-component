@@ -82,7 +82,7 @@ body {
 
 }
 
-.block-cart h4 {
+.block-cart h1 {
   text-transform: uppercase;
   color: var(--Dark-grayish-blue);
   letter-spacing: 0.3rem;
@@ -91,7 +91,7 @@ body {
 
 }
 
-.block-cart h1 {
+.block-cart h2 {
   font-family: var(--ff-fraunces);
   font-size: 32px;
   font-weight: 700;
@@ -105,7 +105,7 @@ body {
   line-height: 1.5;
 }
 
-.block-cart h2 {
+.block-cart h3 {
   font-size: 32px;
   color: var(--Dark-cyan);
   font-family: var(--ff-fraunces);
