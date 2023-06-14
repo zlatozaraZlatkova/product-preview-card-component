@@ -182,10 +182,6 @@ span {
     height: 15rem;
     width: auto;
     background-image: url(/resources/images/image-product-mobile.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    border-radius: 0.5rem 0.5rem 0rem 0rem;
-
   }
 
   .block-cart {
