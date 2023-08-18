@@ -33,7 +33,7 @@ The shift between the layouts was a nice test for building responsive projects.
 - Semantic HTML5 markup
 - CSS custom properties
 - Grid 
-- Desctop-First design
+- Desktop-First design
 - Responsive Web design
 
 
